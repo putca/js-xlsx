@@ -1,3 +1,10 @@
+# Fork from https://www.npmjs.com/package/xlsx-style
+
+# Change: update JSZip to 3.8.0, fix https://avd.aquasec.com/nvd/2022/cve-2022-48285/ and https://avd.aquasec.com/nvd/2021/cve-2021-23413/
+
+# You should use https://www.npmjs.com/package/xlsx-style instead of this project. If you must use it, please conduct sufficient testing.
+
+---
 # xlsx-style
 
 Parser and writer for various spreadsheet formats.  Pure-JS cleanroom implementation from official specifications and related documents.
